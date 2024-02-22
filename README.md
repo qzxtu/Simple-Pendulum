@@ -2,7 +2,7 @@
 
 This Python script performs curve fitting on the data from a simple oscillating pendulum and generates a plot of the data and the fit. 
 
-![image](https://github.com/qzxtu/Simple-Pendulum/assets/69091361/6586a21d-1d21-49f2-87c0-58f7e24d8911)
+![image](https://github.com/qzxtu/Simple-Pendulum/assets/69091361/4d9b3561-70d3-4f64-8c02-23456895d1d5)
 
 ## Requirements
 
