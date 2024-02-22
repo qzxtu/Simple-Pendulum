@@ -3,8 +3,9 @@ import matplotlib.pyplot as plt
 from scipy.optimize import curve_fit
 
 # Tus datos
-tiempo = np.array([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14])
-amplitud = np.array([13, 8.5, 6, 5, 4, 3.5, 3, 2.3, 2.1, 1.9, 1.7, 1.5, 1.4, 1.2])
+# Aquí debes introducir tus propios valores de tiempo y amplitud.
+tiempo = np.array([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14])  # Reemplaza estos valores con tus datos de tiempo
+amplitud = np.array([13, 8.5, 6, 5, 4, 3.5, 3, 2.3, 2.1, 1.9, 1.7, 1.5, 1.4, 1.2]) # Reemplaza estos valores con tus datos de amplitud
 
 # Definición de la función exponencial
 def func(t, A0, zeta, omega_n):
